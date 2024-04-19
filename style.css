@@ -1,0 +1,42 @@
+* {
+    background-color: lightcyan;
+    color: #2f4f4f;
+    padding: 100 rem;
+    margin: 100 rem;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: justify;
+}
+
+h1{
+    padding-left: 30%;
+}
+
+.editor {
+    font-family: 'Courier New', Courier, monospace;
+    }
+img {
+    border-radius: 50%;
+    border: 10px solid;
+}
+
+a{
+    font-size: smaller;
+}
+
+.links ul li{
+    color: navy;
+}
+ol li{
+    color: brown;
+}
+.italics-text {
+    font-style:italic;
+}
+
+.finalDraft{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    margin: 2%;
+    
+}
